@@ -42,3 +42,4 @@ for item in sorted_data:
     print(item)
 
 print("Number of inversions:", inversions)
+
