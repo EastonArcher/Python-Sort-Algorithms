@@ -18,11 +18,3 @@ Each sorting algorithm is implemented in a separate Python script:
 - `quickSort.py`
 
 Feel free to explore the scripts, use them in your projects, or modify them according to your requirements.
-
-## Contribution
-
-Contributions are welcome! If you have any improvements, bug fixes, or additional sorting algorithms you'd like to add, please feel free to open a pull request.
-
-## License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
