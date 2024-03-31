@@ -1,6 +1,5 @@
 # Python Sort Algorithms
-
-Welcome to the Python Sort Algorithms repository! This repository contains implementations of various sorting algorithms written in Python. Whether you're learning about sorting algorithms or looking for efficient implementations, this repository has you covered.
+This repository contains implementations of various sorting algorithms written in Python.
 
 ## Algorithms Included
 
