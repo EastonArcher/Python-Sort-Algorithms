@@ -46,3 +46,4 @@ for item in sorted_data:
     print(item)
 
 print("Merge Sort Number of inversions:", inversions)
+
