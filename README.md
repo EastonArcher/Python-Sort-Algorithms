@@ -1,7 +1,7 @@
 # Python Sort Algorithms
 This repository contains implementations of various sorting algorithms written in Python.
 
-## Algorithms Included
+## Algorithms
 
 1. **Bubble Sort**: A simple sorting algorithm that repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order.
 
