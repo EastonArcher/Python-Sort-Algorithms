@@ -16,3 +16,4 @@ Each sorting algorithm is implemented in a separate Python script:
 - `quickSort.py`
 
 Feel free to explore the scripts, use them in your projects, or modify them according to your requirements.
+
