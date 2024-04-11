@@ -2,7 +2,7 @@
 This repository contains implementations of various sorting algorithms written in Python
 
 ## Algorithms
-1. **🫧Bubble Sort**: A simple sorting algorithm that repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order
+1. **Bubble Sort**: A simple sorting algorithm that repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order
 
 2. **Merge Sort**: A divide and conquer algorithm that divides the input array into two halves, sorts each half recursively, and then merges the sorted halves
 
