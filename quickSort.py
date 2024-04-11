@@ -25,7 +25,6 @@ def quicksort(arr):
 
     return left + equal + right, inversions
 
-
 filename = input("Enter the name of the input file: ")
 
 with open(filename, 'r') as file:
@@ -42,4 +41,3 @@ for item in sorted_data:
     print(item)
 
 print("Number of inversions:", inversions)
-
