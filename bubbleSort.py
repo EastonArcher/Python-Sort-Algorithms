@@ -3,12 +3,12 @@ def bubble_sort(arr):
     inversions = 0
 
     for i in range(n):
-        # set a flag to check if any swaps were made during this iteration
+        # set flag to check if any swaps were made during this iteration
         swapped = False
 
         for j in range(0, n-i-1):
             if arr[j] > arr[j+1]:
-                # swap the elements
+                # swap elements
                 arr[j], arr[j+1] = arr[j+1], arr[j]
                 swapped = True
                 inversions += 1
