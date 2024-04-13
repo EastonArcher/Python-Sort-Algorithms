@@ -28,10 +28,10 @@ with open(filename, 'r') as file:
 # convert each line to an int
 data = [int(line.strip()) for line in data]
 
-# sort the data using bubble sort and track inversions
+# sort data using bubble sort and track inversions
 sorted_data, inversions = bubble_sort(data)
 
-# print the sorted data and number of inversions
+# print sorted data and num of inversions
 for item in sorted_data:
     print(item)
 
