@@ -25,7 +25,7 @@ filename = input("Enter the name of the input file: ")
 with open(filename, 'r') as file:
     data = file.readlines()
 
-# convert each line to an integer
+# convert each line to an int
 data = [int(line.strip()) for line in data]
 
 # sort the data using bubble sort and track inversions
