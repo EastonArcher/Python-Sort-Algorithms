@@ -13,7 +13,7 @@ def bubble_sort(arr):
                 swapped = True
                 inversions += 1
 
-        # if no swaps were made during this iteration, the array is already sorted
+        # if no swaps, the array is already sorted
         if not swapped:
             break
 
